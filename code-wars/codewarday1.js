@@ -4,7 +4,8 @@
 
 // What ways of achieving this do you know?
 
-
+// 4 = '4'
+// o(1) time complexity
 function numberToString(num) {
     return num + '';
   }
