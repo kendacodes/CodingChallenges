@@ -7,7 +7,7 @@
 // 4 = '4'
 // o(1) time complexity
 function numberToString(num) {
-    return num + '';
-  }
+  return num + '';
+}
 
-  numberToString();
+numberToString();
